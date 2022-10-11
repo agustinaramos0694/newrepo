@@ -74,10 +74,11 @@ let objetoPersona = {
     }
 }
 
-objetoPersona.nombre = "Maria"
+objetoPersona.nombre = "Maria agusghi"
 
 console.log(objetoPersona)
 
 for (let prop in objetoPersona) {
     console.log(prop)
 }
+console.log();
